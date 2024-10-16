@@ -1,2 +1,2 @@
-start server with npm ./indeex.js not withh nodemon.
+start server with npm ./indeex.js not with nodemon.
 
